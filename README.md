@@ -7,6 +7,6 @@
 
   ```mermaid
 graph TD
-    A[📥 Webhook / Formulário Web] -->|Dados Brutos| B(🔍 Enriquecimento de Domínio)
-    B -->|Dados de Mercado| C{🤖 Inteligência Artificial}
-    C -->|Avalia Dores & Score| D[⚡ Sincronização no CRM & Alertas]
+    A[ Webhook / Formulário Web] -->|Dados Brutos| B(Enriquecimento de Domínio)
+    B -->|Dados de Mercado| C{IA}
+    C -->|Avalia Dores & Score| D[Sincronização no CRM & Alertas]
