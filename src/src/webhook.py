@@ -1,4 +1,4 @@
-def processar_lead(dados_brutos): #Criamos a função "processar_lead", que aceita o argumento "dados_brutos"
+def processar_lead(dados_brutos): #Criamos a função "processar_lead", que aceita o argumento "dados_brutos" 
     """
     Função que recebe os dados do formuláriom web"
     Aqui faremos a chamada para o enriquecimento e triagem com IA
