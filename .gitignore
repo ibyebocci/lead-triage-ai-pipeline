@@ -1,0 +1,16 @@
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Configurações sensíveis e chaves de API
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e arquivos do sistema
+*.log
+.DS_Store
